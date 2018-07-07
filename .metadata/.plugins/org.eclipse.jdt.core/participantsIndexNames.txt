@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+C:\Users\张文\Desktop\sts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\913013045.index
+\as\src\main\resources
+C:\Users\张文\Desktop\sts_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\913013045.index
+\as\src\main\java

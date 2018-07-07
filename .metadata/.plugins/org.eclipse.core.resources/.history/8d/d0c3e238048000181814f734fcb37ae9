@@ -1,0 +1,8 @@
+package com.pktech.service.impl;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public interface UserServicelmpl implements UserService{
+        
+}

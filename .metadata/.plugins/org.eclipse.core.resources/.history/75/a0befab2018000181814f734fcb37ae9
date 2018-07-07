@@ -1,0 +1,5 @@
+package com.pktech.dao;
+
+public class UserDao {
+     public User findUserByPhone();
+}

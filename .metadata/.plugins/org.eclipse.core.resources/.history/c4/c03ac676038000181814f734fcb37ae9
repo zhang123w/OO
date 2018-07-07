@@ -1,0 +1,5 @@
+package com.pktech.service.impl;
+
+public interface UserServicelmpl {
+        
+}
